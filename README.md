@@ -4,11 +4,11 @@
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
-- Facebook:- https://www.facebook.com/mr.jyotinmaydass
-- Instagram:-https://www.instagram.com/jyotinmaydas
-- Linkedin:-https://www.linkedin.com/in/technojd
-- X:-https://x.com/jyotinmay_das
-- YouTube:-https://youtube.com/@jyotinmaydas
+- Facebook :- https://www.facebook.com/mr.jyotinmaydass
+- Instagram :- https://www.instagram.com/jyotinmaydas
+- Linkedin :- https://www.linkedin.com/in/technojd
+- X :- https://x.com/jyotinmay_das
+- YouTube :- https://youtube.com/@jyotinmaydas
 - Google Dev ID :- https://developers.google.com/profile/u/jyotinmay
 
 <!---
