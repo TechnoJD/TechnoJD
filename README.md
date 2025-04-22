@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TechnoJD
-  - 👀 I’m interested in ... Ai Rresearch & Prompt Engenering
+- 👀 I’m interested in ... Ai Rresearch & Prompt Engenering
 - 🌱 I’m currently learning ... Web/App Developmen & Digital Marketing 
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
